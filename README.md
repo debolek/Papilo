@@ -1,4 +1,4 @@
-#python script to fetch the commit history and index all commits in Elastic Search
+#python script to fetch the commit history and index all commits in Elastic Search.
 Issue:
 For an inexplicable reason, our product owner
 really wants all commit activity from this public
