@@ -147,5 +147,3 @@ if __name__ == '__main__':
         print("Process now completed!!!!!!")    
     except Exception as err:
         error(str(err))
-
-
