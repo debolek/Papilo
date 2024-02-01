@@ -96,7 +96,7 @@ if __name__ == '__main__':
         login_config_parse.read('login_credential.ini')
         
     
-        # verify that Elastic login_credential.ini file exist
+        # verify that Elastic login_credential.ini file exist#
         if not os.path.isfile("login_credential.ini"):
             print('\n\n### Kindly create a basic authentication file named "login_credential.ini"')
             print("[ELASTIC]")
